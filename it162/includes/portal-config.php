@@ -26,14 +26,21 @@ switch(THIS_PAGE){
     case 'index.php':
         $title = "Helene's IT162 Title Page";
         $logo = 'fa-camera-retro';
-        $logo_color = ' style="color:#8EAEBD"';
+        $logo_color = 'style="color:#8EAEBD"';
         $PageID = 'Welcome';
+    break;
+        
+    case 'fp/index.php':
+        $title = "Final Project";
+        $logo = 'fa-mountain';
+        $logo_color = 'style="color: #D3D3D3"';
+        $PageID = 'Final Project Spring 2021';
     break;
         
     case 'contactme.php':
         $title = "Helene's IT162 Contact Page";
         $logo = 'fa-pencil-square-o';
-        $logo_color = ' style="color:#8FBC8F"';
+        $logo_color = 'style="color:#8FBC8F"';
         $PageID = 'Contact me';
     break;
         

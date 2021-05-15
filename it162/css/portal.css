@@ -19,6 +19,22 @@ h1>a {
     font-size:1.25em;
 }
 
+table, th, td {
+  border: 2px solid grey;
+  border-collapse: collapse;
+  vertical-align: top;
+}
+
+tr:nth-child(odd) {background-color: #DCDCDC;}
+
+td {
+  padding: 8px;
+}
+
+th {
+    padding: 15px;
+}
+
 /* Embed Responsively Rules! */
 div.embed-container {
     position: relative;
