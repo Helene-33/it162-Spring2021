@@ -9,16 +9,17 @@
   padding: 0;
   border: 0;
   list-style: none;
-  font-weight: normal;
   text-decoration: none;
   line-height: 1;
   font-family: 'Open Sans', sans-serif;
   font-size: 14px;
   position: relative;
 }
+
 #cssmenu a {
   line-height: 1.5;
 }
+
 #cssmenu {
   width: auto;
   background: #fff;
@@ -37,6 +38,7 @@
   -moz-border-radius: 4px;
   border-radius: 4px;
 }
+
 #cssmenu > ul:after {
   clear: both;
   content: '';
@@ -146,6 +148,7 @@
   width: 200px;
   z-index: 1;
 }
+
 @media all and (max-width: 480px) {
   #cssmenu ul ul {
     position: relative;

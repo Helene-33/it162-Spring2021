@@ -50,6 +50,11 @@ div.dot iframe {
     overflow:no;
 }
 
+div.g-recaptcha {
+    position: relative;
+    text-align: left;
+}
+
 /* START Global Embed Responsively Rules! */
 div.embed-container {
     position: relative;

@@ -9,9 +9,9 @@
 <aside>
     <h3>Works cited</h3>
     <ul>
-        <li>“Basic Concepts of Flexbox - CSS: Cascading Style Sheets.” MDN, <a href="developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox" target="_blank">developer.mozilla.org</a></li>
-        <li>Coyer, Chris. “Using Flexbox: Mixing Old and New for the Best Browser Support: CSS-Tricks.” CSS-Tricks, 15 June 2013, <a href="css-tricks.com/using-flexbox/" target="blank">css-tricks.com</a></li>
-        <li>Schäferhoff Nick. “A CSS Flexbox Tutorial for Beginners - What It Is and How to Use It.” Torque, 27 Feb. 2020, <a href="torquemag.io/2020/02/flexbox-tutorial/" target="_blank">torquemag.io</a></li>
+        <li>“Basic Concepts of Flexbox - CSS: Cascading Style Sheets.” MDN, <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox" target="_blank">developer.mozilla.org</a></li>
+        <li>Coyer, Chris. “Using Flexbox: Mixing Old and New for the Best Browser Support: CSS-Tricks.” CSS-Tricks, 15 June 2013, <a href="https://css-tricks.com/using-flexbox/" target="blank">css-tricks.com</a></li>
+        <li>Schäferhoff Nick. “A CSS Flexbox Tutorial for Beginners - What It Is and How to Use It.” Torque, 27 Feb. 2020, <a href="https://torquemag.io/2020/02/flexbox-tutorial/" target="_blank">torquemag.io</a></li>
     </ul>
 </aside>
 

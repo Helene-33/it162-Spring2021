@@ -8,9 +8,9 @@
 <aside>
     <h3>Works cited</h3>
     <ul>
-        <li>“How TO - Slideshow Gallery.” How To Create a Slideshow, <a href=" www.w3schools.com/howto/howto_js_slideshow_gallery.asp." target="_blank">w3schools.com</a></li>
-        <li>“Web Design Basics: Creating a Photo Gallery for Your Website.” IONOS Digitalguide, 9 Sept. 2020, <a href="www.ionos.com/digitalguide/websites/web-design/how-to-create-a-photo-gallery-for-your-website/" target="blank">ionos.com</a></li>
-        <li>Ziegler, Curt. “How to Start Using JQuery Sliders in Your Designs.” Web Design Envato Tuts+, Envato Tuts, 21 Oct. 2010, <a href="webdesign.tutsplus.com/articles/how-to-start-using-jquery-sliders-in-your-designs--webdesign-380" target="_blank">webdesign.tutesplus.com</a></li>
+        <li>“How TO - Slideshow Gallery.” How To Create a Slideshow, <a href=" https://www.w3schools.com/howto/howto_js_slideshow_gallery.asp." target="_blank">w3schools.com</a></li>
+        <li>“Web Design Basics: Creating a Photo Gallery for Your Website.” IONOS Digitalguide, 9 Sept. 2020, <a href="https://www.ionos.com/digitalguide/websites/web-design/how-to-create-a-photo-gallery-for-your-website/" target="blank">ionos.com</a></li>
+        <li>Ziegler, Curt. “How to Start Using JQuery Sliders in Your Designs.” Web Design Envato Tuts+, Envato Tuts, 21 Oct. 2010, <a href="https://webdesign.tutsplus.com/articles/how-to-start-using-jquery-sliders-in-your-designs--webdesign-380" target="_blank">webdesign.tutesplus.com</a></li>
     </ul>
 </aside>
 

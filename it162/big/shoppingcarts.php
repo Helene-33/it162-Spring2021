@@ -8,9 +8,9 @@
 <aside>
     <h3>Works cited</h3>
     <ul>
-        <li>Carney, Lucy. “Best Ecommerce Hosting Providers 2021: The Top 6.” Website Builder Expert, 1 Apr. 2021, <a href=" www.websitebuilderexpert.com/web-hosting/ecommerce/" target="_blank">websitebuilderexpert.com</a></li>
-        <li>Drake, Nate, et al. “Best Shopping Cart Software of 2021.” TechRadar, TechRadar Pro, 31 Mar. 2021, <a href=" www.techradar.com/best/best-shopping-cart-software." target="blank">techradar.com</a></li>
-        <li>FreshBooks. “How to Accept Credit Card Payments: A Practical Small Business Guide.” FreshBooks, 15 Oct. 2019, <a href="www.freshbooks.com/hub/payments/accept-credit-card-payments" target="_blank">freshbooks.com</a></li>
+        <li>Carney, Lucy. “Best Ecommerce Hosting Providers 2021: The Top 6.” Website Builder Expert, 1 Apr. 2021, <a href="https://www.websitebuilderexpert.com/web-hosting/ecommerce/" target="_blank">websitebuilderexpert.com</a></li>
+        <li>Drake, Nate, et al. “Best Shopping Cart Software of 2021.” TechRadar, TechRadar Pro, 31 Mar. 2021, <a href="https://www.techradar.com/best/best-shopping-cart-software." target="blank">techradar.com</a></li>
+        <li>FreshBooks. “How to Accept Credit Card Payments: A Practical Small Business Guide.” FreshBooks, 15 Oct. 2019, <a href="https://www.freshbooks.com/hub/payments/accept-credit-card-payments" target="_blank">freshbooks.com</a></li>
     </ul>
 </aside>
 

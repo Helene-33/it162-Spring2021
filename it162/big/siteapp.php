@@ -10,7 +10,7 @@
     <h3>Works cited</h3>
     <ul>
         <li>Babich, Nick. “Deciding Between Responsive Web or Native Apps.” Xd Adobe, 07 April 2020, <a href=" https://xd.adobe.com/ideas/principles/web-design/responsive-web-or-native-app/" target="_blank">xd.adobe.com</a></li>
-        <li>Cherednichenko, Sveta. “Mobile App, Responsive Website, or Something in Between: What to Choose for Your Business.” Mobindustry, 27 Aug. 2019, <a href="www.mobindustry.net/mobile-app-responsive-website-or-something-in-between-what-to-choose-for-your-business-in-2019/" target="blank">mobindustry.net</a></li>
+        <li>Cherednichenko, Sveta. “Mobile App, Responsive Website, or Something in Between: What to Choose for Your Business.” Mobindustry, 27 Aug. 2019, <a href="http://www.mobindustry.net/mobile-app-responsive-website-or-something-in-between-what-to-choose-for-your-business-in-2019/" target="blank">mobindustry.net</a></li>
     </ul>
 </aside>
 
