@@ -61,7 +61,7 @@ switch(THIS_PAGE){
         
     default:
         $title = THIS_PAGE;
-        $PageID = 'Welcome';
+        $PageID = '';
 }
 
 ?>

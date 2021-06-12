@@ -11,20 +11,30 @@
   </div>  
 
 <div class="gallery">
-<div class="row">
-  <div class="column">
-    <img src="images/snow.jpg" alt="Snowy day" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="images/swing.jpg" alt="Swinging" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="images/sand.jpg" alt="Sand Dunes" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="images/dance.jpg" alt="Dance" style="width:100%">
-  </div>
-</div>
+    <figure class="hover-img">
+      <img src="images/snow.jpg"/>
+      <figcaption>
+        <h3>Winter <br/>in Austria</h3>
+      </figcaption>
+    </figure>
+    <figure class="hover-img">
+      <img src="images/swing.jpg"/>
+      <figcaption>
+        <h3>Lake<br/>Constance</h3>
+      </figcaption>
+    </figure>
+    <figure class="hover-img">
+      <img src="images/sand.jpg"/>
+      <figcaption>
+        <h3>Sand Dunes <br/>Colorado</h3>
+      </figcaption>
+    </figure>
+    <figure class="hover-img">
+      <img src="images/dance.jpg"/>
+      <figcaption>
+        <h3>London's <br/>Docks</h3>
+      </figcaption>
+    </figure>
 </div>
 
 <?php include 'includes/footer.php';?>

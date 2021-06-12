@@ -12,6 +12,8 @@
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tangerine">
         <link rel="preconnect" href="https://fonts.gstatic.com">
         <link href="https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap" rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap" rel="stylesheet"> 
         <script src="https://s3.amazonaws.com/menumaker/menumaker.min.js"></script>
         <script src="https://use.fontawesome.com/0c7ce115ce.js"></script>
         <link rel="stylesheet" href="css/nav.css" />

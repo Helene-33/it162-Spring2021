@@ -2,7 +2,7 @@
 
 <h2>Feebacks</h2>
 
-<section>
+<p class="textpages">Please don't hesitate to leave me a feedback!</p>
 
 <?php
     include 'includes/contact_include.php'; #site keys & code here
