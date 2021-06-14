@@ -4,25 +4,25 @@
 
 <div class="gallery">
     <figure class="hover-img">
-      <img src="images/snow.jpg"/>
+      <img src="images/snow.jpg" alt="Winter in Austria"/>
       <figcaption>
-        <h3>Winter <br/>in Austria</h3>
+        <a href="winteraustria.php"><h3>Winter <br/>in Austria</h3></a>
       </figcaption>
     </figure>
     <figure class="hover-img">
-      <img src="images/swing.jpg"/>
+      <img src="images/swing.jpg" alt="Swing"/>
       <figcaption>
-        <h3>Lake<br/>Constance</h3>
+        <a href="lakeconstance.php"><h3>Lake<br/>Constance</h3></a>
       </figcaption>
     </figure>
     <figure class="hover-img">
-      <img src="images/windsor.jpg"/>
+      <img src="images/windsor.jpg" alt="Windsor Castle"/>
       <figcaption>
         <h3>Visit <br/> Windsor Castle</h3>
       </figcaption>
     </figure>
     <figure class="hover-img">
-      <img src="images/porto.jpg"/>
+      <img src="images/porto.jpg" alt="Porto"/>
       <figcaption>
         <h3>Hello <br/> Porto!</h3>
       </figcaption>
@@ -30,25 +30,25 @@
 </div> 
 <div class="gallery">
     <figure class="hover-img">
-      <img src="images/denmark.jpg"/>
+      <img src="images/denmark.jpg" alt="Denmark"/>
       <figcaption>
         <h3>A weekend <br/>In Denmark</h3>
       </figcaption>
     </figure>
     <figure class="hover-img">
-      <img src="images/scotland.jpg"/>
+      <img src="images/scotland.jpg" alt="Scotland"/>
       <figcaption>
         <h3>5 days trip <br/> In Scotland</h3>
       </figcaption>
     </figure>
     <figure class="hover-img">
-      <img src="images/slova.jpg"/>
+      <img src="images/slova.jpg" alt="Bratislava"/>
       <figcaption>
         <h3>Bratislava, <br/> Slovakia</h3>
       </figcaption>
     </figure>
     <figure class="hover-img">
-      <img src="images/castle.jpg"/>
+      <img src="images/castle.jpg" alt="German Castles"/>
       <figcaption>
         <h3>Favorite <br/> German Castles</h3>
       </figcaption>

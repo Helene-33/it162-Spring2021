@@ -44,9 +44,13 @@
                         <li><a href="comments.php">Feedback</a></li>
                         <li><a href="work.php">Work with me</a></li>
                  </ul></li>
-        </ul>
+                    <li class="socialmedia"><a href="https://www.facebook.com/marion.dunser.7" target="_blank"><span><i class="fa fa-fw fa-facebook"></i></span></a></li>
+                    <li class="socialmedia"><a href="https://www.instagram.com/marystravellife/?hl=fr" target="_blank"><span><i class="fa fa-fw fa-instagram"></i></span></a></li>
+                    <li><a href="" target="_blank"><span><i class="fa fa-fw fa-youtube"></i></span></a></li>
+            </ul>
         </nav>
         </header>
 
         <section>
             <h2 class="pageID"><?=$PageID?></h2>
+            

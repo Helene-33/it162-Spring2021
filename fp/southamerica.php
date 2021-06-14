@@ -4,13 +4,13 @@
 
 <div class="gallery">
     <figure class="hover-img">
-      <img src="images/tipsmexico.jpg"/>
+      <img src="images/tipsmexico.jpg" alt="Tips for Mexico"/>
       <figcaption>
         <h3>Tips to travel <br/>in Mexico</h3>
       </figcaption>
     </figure>
     <figure class="hover-img">
-      <img src="images/cabo.jpg"/>
+      <img src="images/cabo.jpg" alt="Chilling in Cabo"/>
       <figcaption>
         <h3>A week<br/>in Cabo</h3>
       </figcaption>

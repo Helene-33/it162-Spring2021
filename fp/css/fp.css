@@ -108,7 +108,6 @@ div.textcontent {
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     letter-spacing: 1px;
-    
 }
 
 .hover-img:hover:before,
@@ -158,6 +157,54 @@ div.about img {
     padding-left:65px;
 }
 
+div.winter img {
+    max-width:30%;
+    max-height:30%;
+    float:right;
+    margin: 10px;
+    padding-left:65px;
+}
+
+div.lake img {
+    max-width:30%;
+    max-height:30%;
+    float:none;
+    margin: 10px;
+    padding-left:65px;
+}
+
+div.lake p {
+    margin-left: 80px;
+}
+
+div.sanddunes img {
+    max-width:30%;
+    max-height:30%;
+    float:left;
+    margin: 10px;
+    padding-left:65px;
+}
+
+div.sanddunes p {
+    margin-left: 80px;
+}
+
+div.sanddunes2 img {
+    max-width:30%;
+    max-height:30%;
+    float:right;
+    margin: 10px;
+    padding-left:65px;
+}
+
+div.london img {
+    max-width:30%;
+    max-height:30%;
+    float:left;
+    margin: 10px;
+    padding-left:65px;
+}
+
 .disclaimer {
     text-align:justify;
     width: 80%;
@@ -191,6 +238,10 @@ footer a:hover {
     background-color:#DCDCDC;
 }
 
+li.socialmedia {
+    margin-right:-70px;
+}
+
 /* START Global Embed Responsively Rules! */
 div.embed-container {
     position: relative;
@@ -215,50 +266,30 @@ div.embed-container iframe {
     main.wrapper {
         background-color: #FFF0F5;
     }
-    div.column {
-        width: 70%;
-        height:auto;
-        padding:10px;
-    }
+
     div.imgcenter img {
         max-width: 100%;
         height:auto;
     }
 
-h1.maintitle {
-    font-size: 2em;
-}
+    h1.maintitle {
+        font-size: 44px;
+    }
 
-h1.templatetitle {
-    font-size: 1em;
-}
-}
-
+    h1.templatetitle {
+        font-size: 36px;
+    }
 
 /* TABLET */
 @media all and (min-width:841px) and (max-width:1310px) {
-
-    div.column {
-        float: left;
-        width: 17.33%;
-        padding: 10px;
-        margin-left: 70px;
-}
-
-/* Clear floats after image containers */
-    div.row::after {
-        content: "";
-        clear: both;
-        display: table;
-} 
     
-h1.maintitle {
-    font-size: 3em;
-}
+    h1.maintitle {
+        font-size: 44px;
+    }
 
-h1.templatetitle {
-    font-size: 2em;
-}
+    h1.templatetitle {
+        font-size: 36px;
+    }
 }
 
 /*SOCIAL MEDIA BUTTONS */

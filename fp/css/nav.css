@@ -356,11 +356,16 @@
 
 /* TABLET */
 @media all and (min-width:601px) and (max-width:1399px) {
-    width:90%;
+    width:90%; 
     }
 
 /* PHONE */
 
 @media all and (max-width:600px) {
-    width:100%;
+    width:80%;
 }
+
+    
+    li.socialmedia {
+        margin-right:-20px;
+    }

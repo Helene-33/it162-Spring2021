@@ -12,27 +12,27 @@
 
 <div class="gallery">
     <figure class="hover-img">
-      <img src="images/snow.jpg"/>
+      <img src="images/snow.jpg" alt="Snow"/>
       <figcaption>
-        <h3>Winter <br/>in Austria</h3>
+        <a href="winteraustria.php"><h3>Winter <br/>in Austria</h3></a>
       </figcaption>
     </figure>
     <figure class="hover-img">
-      <img src="images/swing.jpg"/>
+      <img src="images/swing.jpg" alt="Lake Constance"/>
       <figcaption>
-        <h3>Lake<br/>Constance</h3>
+        <a href="lakeconstance.php"><h3>Lake<br/>Constance</h3></a>
       </figcaption>
     </figure>
     <figure class="hover-img">
-      <img src="images/sand.jpg"/>
+      <img src="images/sand.jpg" alt="Sand Dunes"/>
       <figcaption>
-        <h3>Sand Dunes <br/>Colorado</h3>
+        <a href="sanddunes.php"><h3>Sand Dunes <br/>Colorado</h3></a>
       </figcaption>
     </figure>
     <figure class="hover-img">
-      <img src="images/dance.jpg"/>
+      <img src="images/dance.jpg" alt="London's Docks"/>
       <figcaption>
-        <h3>London's <br/>Docks</h3>
+        <a href="londondocks.php"><h3>London's <br/>Docks</h3></a>
       </figcaption>
     </figure>
 </div>
